@@ -1,5 +1,0 @@
-Flask==1.1.2
-opencv-contrib-python-headless==4.5.2.54
-google-cloud==0.34.0
-google-cloud-storage==1.42.2
-google-cloud-vision==2.4.2
